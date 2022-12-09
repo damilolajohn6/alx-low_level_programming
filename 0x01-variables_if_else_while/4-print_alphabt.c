@@ -12,12 +12,12 @@ int main(void)
 {
 char low, f, g;
 
-f = 'f';
-g = 'g';
+f = 'e';
+g = 'q';
 
-for (low = 'a'; low <= 'z'; low++)
+for (low = 'e'; low <= 'z'; low++)
 {
-if (low != f && low != g)
+if (low != f && low != q)
 putchar(low);
 }
 putchar('\n');
