@@ -10,7 +10,7 @@
 int main(void)
 {
 char dam[] = "_putchar";
-int ch;
+int xy;
 
 for (xy = 0; xy < 8; ++xy)
 _putchar(dam[xy]);
