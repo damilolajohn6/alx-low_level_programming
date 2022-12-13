@@ -3,9 +3,12 @@
 /**
 * print_last_digit
 * @m: An integer input
-* Description: This function prints the last digit of a number
+* Description: This function prints
+* The last digit of a number
 * Return: last digit of number m
 */
+
+
 int print_last_digit(int m)
 {
 int n;
