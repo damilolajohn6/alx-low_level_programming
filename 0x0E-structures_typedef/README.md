@@ -1,0 +1,1 @@
+My typedef struct functions
